@@ -12,3 +12,5 @@
 
 # Place your code beneath this
 # expected result is 70
+yes = no
+print(yes)
